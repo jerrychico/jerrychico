@@ -2,6 +2,7 @@
 
 ## 🚀 Mobile Developer | Flutter | JavaScript | TypeScript
 
+
 I'm a passionate **mobile developer** with experience in building cross-platform applications using **Flutter**, as well as web and server-side applications using **JavaScript** and **TypeScript**. I love turning ideas into real-world solutions with clean, efficient, and scalable code.
 
 ### 👨‍💻 Skills & Technologies:
