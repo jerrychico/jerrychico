@@ -17,10 +17,10 @@ I'm a passionate **mobile developer** with experience in building cross-platform
 
 ### 🌟 Projects:
 - **Budgeto**: A mobile application for budgeting and expense management, designed to help users track and manage their finances effectively
-  [Budgeto](https://play.google.com/store/apps/details?id=com.dev107.budgeto)
+  [LINK...](https://play.google.com/store/apps/details?id=com.dev107.budgeto)
   
 - **Phone Data**: Find mobile data easily with our fast, smart app!.
-  [PData](https://play.google.com/store/apps/details?id=com.dev107.phonedata)
+  [LINK...](https://play.google.com/store/apps/details?id=com.dev107.phonedata)
 
 ### 📫 How to reach me:
 - Email: [Douanlabostel28@gmail.com](mailto:Douanlabostel28@gmail.com)
