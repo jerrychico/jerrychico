@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jerry Bostel (Douanla Dountio Jerry Bostel) !
+# 👋 Hello, I'm Jerry !
 
 ## 🚀 Mobile Developer | Flutter | JavaScript | TypeScript
 
